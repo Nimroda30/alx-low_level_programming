@@ -1,10 +1,6 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
-
-
 
 /**
  * main - entry
@@ -16,8 +12,6 @@ int main(void)
 {
 
 	int n;
-
-
 
 	srand(time(0));
 
