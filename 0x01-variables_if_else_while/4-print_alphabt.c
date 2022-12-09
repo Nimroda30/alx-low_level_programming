@@ -1,18 +1,15 @@
-#include <stdio.h>
+#include <stdio.h>
 
 /**
- *
- * main - entry point
- * Return:returns 0 \
- * */
+ * main - entry
+ * Return:returns 0
+ */
 
 int main(void)
 
 {
 
 	char a;
-
-
 
 	for (a = 'a'; a <= 'z' ; a++)
 
@@ -33,3 +30,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+}
